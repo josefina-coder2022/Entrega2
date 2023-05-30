@@ -1,0 +1,48 @@
+
+body{
+   background: rgb(244, 73, 6);
+   background: linear-gradient(90deg, rgba(250, 84, 18, 0.32) 0%, rgba(247, 184, 23, 1) 50%, rgba(249, 226, 94, 1) 100%);
+}
+
+h1{ 
+    color: black;
+    font-family: sans-serif;
+    font-size: xx-large;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 80px;
+}
+
+p{
+    font-family: sans-serif;
+    color: black;
+    font-size: x-large;
+    text-align: center;
+    margin-top: 40px;
+}
+
+span{
+    color: rgb(255, 40, 2);
+    font-weight: bold;
+}
+
+button{
+    margin: auto;
+    margin-top: 30px;
+    margin-left: 600px;
+    padding: 40px;
+    border-radius: 20px;
+    border: 2px solid aliceblue;
+    background-color: black;
+    color:aliceblue;
+    cursor: pointer;
+    font-weight: 600;
+    font-family: sans-serif;
+    font-size: x-large;
+}
+
+button:hover{
+    background-color: rgb(255, 40, 2);
+    color: black;
+    border: 2px solid black;
+}
